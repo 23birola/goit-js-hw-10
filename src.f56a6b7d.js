@@ -15,4 +15,4 @@ function e(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/menu"),require("./js/theme-switcher");
 },{"./sass/main.scss":"clu1","./js/menu":"i0CD","./js/theme-switcher":"keXy"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.f56a6b7d.js.map
+//# sourceMappingURL=/goit-js-hw-10/src.f56a6b7d.js.map
